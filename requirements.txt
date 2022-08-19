@@ -1,0 +1,12 @@
+selenium==3.141.0
+openpyxl==3.0.3
+pyunpack==0.2.2
+exchangelib==3.1.1
+click==7.1.2
+pyzmq==22.0.3
+pypac==0.15.0
+requests-ntlm==1.1.0
+tzlocal==2.1
+pre-commit==2.17.0
+flake8==3.9.2
+pandas==1.4.3
